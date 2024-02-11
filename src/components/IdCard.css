@@ -1,0 +1,5 @@
+.container-idcard {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+}

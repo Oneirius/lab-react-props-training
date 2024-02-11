@@ -1,0 +1,25 @@
+.credit-card {
+    width: 200px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#card-type {
+    text-align: end;
+}
+
+#card-number {
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+#logo-visa, #logo-mastercard{
+    width: 40px;
+    transform: translateX(400%);
+    padding-bottom: 20px;
+}
+
+#owner {
+    padding-bottom: 10px;
+}
